@@ -3,9 +3,9 @@
 
 - 👨🏻‍💻 Former Software Engineer Intern at **Microsoft**
 
-- 👨‍💻 All of my projects are available at [https://gaserashraf.github.io/](https://gaserashraf.github.io/)
-
 - 🏫 Senior Computer Engineering Student at **Faculty of Engineering Cairo University**
+
+- 👨‍💻 All of my projects are available at [https://gaserashraf.github.io/](https://gaserashraf.github.io/)
 
 - 🏃‍♂️ I am passionate about **Front-End and Competitive Programming**
 
