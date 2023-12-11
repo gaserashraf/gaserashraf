@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gaser</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaserashraf&label=Profile%20views&color=0e75b6&style=flat" alt="gaserashraf" /> </p>
 
+- 👨🏻‍💻 Software Development Engineer at **Microsoft**
+
 - 👨🏻‍💻 Former Software Engineer Intern at **Microsoft**
 
-- 🏫 Senior Computer Engineering Student at **Faculty of Engineering Cairo University**
+- 🏫 Computer Engineering Graduate from **Faculty of Engineering Cairo University**
 
 - 👨‍💻 All of my projects are available at [https://gaserashraf.github.io/](https://gaserashraf.github.io/)
 
